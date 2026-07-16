@@ -90,7 +90,7 @@ export default function Hero() {
 
         <div className="relative max-w-screen-xl mx-auto px-4 h-full flex items-center">
           <div className="flex-1 text-black max-w-md lg:max-w-lg bg-white/50 rounded-3xl p-6 shadow-2xl">
-            <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold leading-tight mb-2">
+            <h1 className="text-3xl sm:text-4xl lg:text-3xl font-bold leading-tight mb-2">
               <span className="block text-black">Belanja Di KDMP</span>
               <span className="block text-red-600">Desa Panyingkiran Kec.Pawindan Kab.Ciamis</span>
             </h1>
