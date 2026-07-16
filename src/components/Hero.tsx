@@ -92,7 +92,7 @@ export default function Hero() {
           <div className="flex-1 text-black max-w-md lg:max-w-lg bg-white/50 rounded-3xl p-6 shadow-2xl">
             <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold leading-tight mb-2">
               <span className="block text-black">Belanja Di KDMP</span>
-              <span className="block text-red-600">Desa Panyingkiran Kecamatan Pawindan Kabupaten Ciamis</span>
+              <span className="block text-red-600">Desa Panyingkiran Kec.Pawindan Kab.Ciamis</span>
             </h1>
             <p className="text-black text-base sm:text-lg mb-5 hidden sm:block font-bold">
               Dukung UMKM lokal, pesan kuliner lezat,<br className="hidden md:block" />
