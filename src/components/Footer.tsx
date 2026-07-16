@@ -87,7 +87,7 @@ export default function Footer() {
             <ul className="space-y-2 mb-4">
               <li className="flex gap-2 text-red-200 text-xs">
                 <MapPin className="w-3.5 h-3.5 flex-shrink-0 mt-0.5" />
-                <span>Jl. Desa No. 17, Desa Sukamaju, Kec. Makmur, Kab. Indonesia</span>
+                <span>Desa Panyingkiran, Kecamatan Pawindan, Kabupaten Ciamis, Indonesia</span>
               </li>
               <li className="flex gap-2 text-red-200 text-xs items-center">
                 <Phone className="w-3.5 h-3.5 flex-shrink-0" />
